@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphameticsCS", "AlphameticsCS.csproj", "{4694D2D2-C48C-4E64-97C1-58546009F0D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4694D2D2-C48C-4E64-97C1-58546009F0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4694D2D2-C48C-4E64-97C1-58546009F0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4694D2D2-C48C-4E64-97C1-58546009F0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4694D2D2-C48C-4E64-97C1-58546009F0D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAD99341-F495-4C68-BE55-EFF7BA1935EB}
+	EndGlobalSection
+EndGlobal
