@@ -25,7 +25,7 @@ namespace AlphameticsCS
 
         static void do_work()
         {
-            Console.Write("Input formula: ");
+            Console.Write("Input the formula: ");
             var formula = Console.ReadLine().ToUpper().Replace(" ", "");
             var start_time = DateTime.Now;
             var left_right = formula.Split('=');
